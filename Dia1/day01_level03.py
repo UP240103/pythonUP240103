@@ -1,24 +1,3 @@
-print("Excersise day 1")
-print(3 + 4)
-print(3 - 4)
-print(3 * 4)
-print(3 % 4)
-print(3 ** 4)
-print(3 * 4)  
-print(3 // 4)
-print(3 / 4)
-
-print('Nery')
-print('Noe, Amparo, Noely, Noe')
-print('Mexico')
-print('Im enjoying 30 days of python')
-
-print(type('Nery'))
-print(type('Noe, Amparo, Noely, Noe'))
-print(type('Mexico'))
-print(type('Im enjoying 30 days of python'))
-
-
 
 numero_entero = 42                
 numero_flotante = 3.14159         
